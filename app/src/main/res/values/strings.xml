@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Align Left Right</string>
+    <string name="action_register">Register</string>
+    <string name="button_undo">undo</string>
+    <string name="button_elb">ELB</string>
+    <string name="button_ec2">EC2</string>
+    <string name="button_rds">"RDS"</string>
+    <string name="button_report">REPORT</string>
+</resources>
